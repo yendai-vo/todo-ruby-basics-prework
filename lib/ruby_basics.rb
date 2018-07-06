@@ -1,5 +1,4 @@
 def division(num1, num2)
- puts num1 / num2
  num1 / num2
 end
 
@@ -16,7 +15,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
-
+  return "Nice"
 end
 
 def last_evaluated_value
@@ -24,6 +23,5 @@ def last_evaluated_value
 end
 
 def pizza_party(type = "cheese")
-  puts type
   type
 end
