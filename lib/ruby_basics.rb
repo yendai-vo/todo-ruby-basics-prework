@@ -5,8 +5,6 @@ end
 
 def assign_variable(value)
   name = value
-  puts name
-  name
 end
 
 def argue(argue)
@@ -18,6 +16,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value
+  
 end
 
 def last_evaluated_value
