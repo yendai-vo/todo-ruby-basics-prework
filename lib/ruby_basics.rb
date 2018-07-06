@@ -14,10 +14,10 @@ def argue(argue)
 end
 
 def greeting
-
+  
 end
 
-def return_a_value(phrase)
+def return_a_value (phrase)
   puts phrase
   phrase
 end
