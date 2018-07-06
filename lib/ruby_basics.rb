@@ -13,13 +13,13 @@ def argue(argue)
   argue
 end
 
-def greeting(greeting, name)
-  puts greeting name
-  greeting name
+def greeting
+  
 end
 
-def return_a_value
-
+def return_a_value(phrase)
+  puts phrase
+  phrase
 end
 
 def last_evaluated_value
