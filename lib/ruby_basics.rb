@@ -17,15 +17,15 @@ def greeting
 
 end
 
-def return_a_value(phrase)
-  puts phrase
-  phrase
+def return_a_value
+  
 end
 
 def last_evaluated_value
 
 end
 
-def pizza_party
-
+def pizza_party(type = "cheese")
+  puts type
+  type
 end
